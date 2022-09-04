@@ -4,8 +4,8 @@ https://github.com/pestdata
 
 
 
-[![File-Audio](https://drive.google.com/drive/folders/1_1qTg3rQHRBqNqGazsNS7H_9OEjwAODT?usp=sharing)](https://drive.google.com/drive/folders/1_1qTg3rQHRBqNqGazsNS7H_9OEjwAODT?usp=sharing) [![Docs]()]() [![Tests]()]()  
-[![Codecov]()]() [![Unix Build]()]() [![Windows Build]()]() [![Scrutinizer]()]() [![CII Best Practices]()]()
+[![File-Audio]()](https://drive.google.com/drive/folders/1_1qTg3rQHRBqNqGazsNS7H_9OEjwAODT?usp=sharing) [![Docs]()]() [![Tests]()]()  
+
 
 
 # Wav file
@@ -13,19 +13,11 @@ https://github.com/pestdata
 
 With **wavefile** you can:
 
-- 
+
 - [Wav files](https://drive.google.com/drive/folders/1_1qTg3rQHRBqNqGazsNS7H_9OEjwAODT?usp=sharing)
-- 
-
-### Command line use
-To see the available options:
-```
-wavefile --help
-```
 
 
-#### Methods
-- **point**: Nearest point interpolation.
+
 
 ### LICENSE
 Copyright (c) 2022 authors.
